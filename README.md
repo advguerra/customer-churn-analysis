@@ -166,4 +166,4 @@ The integration of Python and Power BI enables both deep analysis and clear comm
 ## 👤 Author
 
 Filipe Guerra  
-Aspiring Data Analyst
+Data Analyst
