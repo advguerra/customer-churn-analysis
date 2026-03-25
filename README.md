@@ -37,7 +37,7 @@ This may indicate differences in customer experience or expectations between gen
 
 ## 💳 Churn by Subscription Type
 
-![Churn by Subscription](images/subscription.png)
+![Churn by Subscription](images/subscripition.png)
 
 **Insight:**
 
@@ -101,7 +101,7 @@ After identifying patterns through Python, the cleaned dataset was used to build
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard](images/dashboard.png)
+![Dashboard](images/Dashboard.png)
 
 ---
 
